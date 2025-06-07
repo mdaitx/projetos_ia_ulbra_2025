@@ -1,1 +1,1 @@
-# criando um agente inteligete
+# criando um agente inteligete especialista em games.
